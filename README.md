@@ -23,7 +23,7 @@ I'm a passionate developer focused on building clean, efficient, and user-friend
 
 ## 📌 Featured Projects
 
-- **Ludo Bot** – A phone automation bot using ADB and template matching with OpenCV
+- **LudoPilot** – A phone automation bot using ADB and template matching with OpenCV
 - **AutoRepoSync** – Automates repo creation & sync between personal and org accounts. On push, it checks, creates (if needed), and mirrors to keep everything in sync. 🔄✨
 
 ## 📈 GitHub Stats
