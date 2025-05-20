@@ -34,7 +34,7 @@ I'm a passionate developer focused on building clean, efficient, and user-friend
 
 - LinkedIn: [Kalp LinkedIn](https://www.linkedin.com/in/kalp-khadela-7608a416a)
 - Twitter/X: [@KalpKhadela](https://x.com/KalpKhadela)
-- Portfolio: [kalp-portfolio.com](https://kalp-portfolio.netlify.app/)
+- Portfolio: [kalp.world](https://kalp.world)
 
 ---
 
