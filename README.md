@@ -28,7 +28,7 @@ I'm a passionate developer focused on building clean, efficient, and user-friend
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=K12-K&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
